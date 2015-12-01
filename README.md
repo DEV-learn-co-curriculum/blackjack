@@ -56,3 +56,5 @@ We'll be building a BlackJack game. Take a minute and think about how the game c
 
 ### Extra Credit
    * Add a second AI player, and take turns playing the game. This may actually be easier than you'd think :)
+
+<a href='https://learn.co/lessons/tomatosaucelab' data-visibility='hidden'>Learn.co resource</a>
